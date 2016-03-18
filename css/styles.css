@@ -36,7 +36,7 @@ h4 {
 }
 
 .blinking {
-  animation: blinker 3s linear infinite;
+  animation: blinker 2.5s linear infinite;
 }
 @keyframes blinker {
   50% { opacity: 0.0; }
