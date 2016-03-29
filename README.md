@@ -1,31 +1,32 @@
-{Week 1 Code Review}
+# _Week 1 Code Review_
 
-{3/18/2016}
+#### _{Brief description of application}, {Date of current version}_
 
-By {Jeff Hackford}
+#### By _**Jeffrey-Hackford**_
 
-Description
+## Description
 
-{Code Review designed to test understanding of week 1's lessons}
+_This project was assigned as a code review to test the understanding of week 1 lessons_
 
-Setup/Installation Requirements
+## Setup/Installation Requirements
 
-*Simple HTML site, open with any web browser*
+* _Clone repository from GitHub_
+* _Open index.html file in any web browser_
 
-_Known Bugs_
+## Known Bugs
 
--None
+_None_
 
-Support and Contact Info
+## Support and contact details
 
-_ Jeffrey.Hackford@gmail.com _
+_Jeffrey.Hackford@gmail.com_
 
-Technology Used
+## Technologies Used
 
-_HTML, CSS, Bootstrap, and GitHub_
+_Technologies used include HTML, CSS, Bootstrap for styling, and GitHub_
 
-_GitHub Link_ - https://github.com/Jeffrey-Hackford/Week-1-Review
+### License
 
-License
+*MIT licensing*
 
-MIT licensing Copyright (c) 2016 Jeffrey Hackford
+Copyright (c) 2015 **_Jeffrey Hackford_**
